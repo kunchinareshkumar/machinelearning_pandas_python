@@ -1,0 +1,51 @@
+customer_id,customer_name,segment,signup_date
+1,Customer_01,Consumer,2022-01-25
+2,Customer_02,Consumer,2022-08-25
+3,Customer_03,Corporate,2023-04-02
+4,Customer_04,Consumer,2023-06-07
+5,Customer_05,Corporate,2023-07-31
+6,Customer_06,Consumer,2022-08-28
+7,Customer_07,Consumer,2022-04-28
+8,Customer_08,Corporate,2022-01-19
+9,Customer_09,Small Business,2022-04-13
+10,Customer_10,Small Business,2022-02-15
+11,Customer_11,Corporate,2023-08-26
+12,Customer_12,Consumer,2022-07-07
+13,Customer_13,Small Business,2023-07-31
+14,Customer_14,Small Business,2023-01-23
+15,Customer_15,Small Business,2023-01-13
+16,Customer_16,Small Business,2022-11-15
+17,Customer_17,Small Business,2023-07-28
+18,Customer_18,Small Business,2022-01-31
+19,Customer_19,Corporate,2022-03-06
+20,Customer_20,Corporate,2022-10-24
+21,Customer_21,Consumer,2022-10-04
+22,Customer_22,Consumer,2023-01-17
+23,Customer_23,Small Business,2023-06-01
+24,Customer_24,Small Business,2023-02-16
+25,Customer_25,Small Business,2022-06-30
+26,Customer_26,Consumer,2022-08-18
+27,Customer_27,Corporate,2023-06-11
+28,Customer_28,Consumer,2022-05-22
+29,Customer_29,Small Business,2022-12-19
+30,Customer_30,Consumer,2023-01-13
+31,Customer_31,Consumer,2023-06-10
+32,Customer_32,Corporate,2023-05-16
+33,Customer_33,Small Business,2022-11-22
+34,Customer_34,Small Business,2022-08-05
+35,Customer_35,Consumer,2022-09-15
+36,Customer_36,Consumer,2022-10-16
+37,Customer_37,Consumer,2022-06-03
+38,Customer_38,Consumer,2023-03-14
+39,Customer_39,Corporate,2022-05-26
+40,Customer_40,Consumer,2023-03-31
+41,Customer_41,Consumer,2023-06-11
+42,Customer_42,Corporate,2023-11-05
+43,Customer_43,Consumer,2022-03-25
+44,Customer_44,Consumer,2023-06-16
+45,Customer_45,Consumer,2022-03-02
+46,Customer_46,Consumer,2022-08-25
+47,Customer_47,Corporate,2022-05-04
+48,Customer_48,Small Business,2022-04-24
+49,Customer_49,Small Business,2022-05-03
+50,Customer_50,Consumer,2022-01-31
